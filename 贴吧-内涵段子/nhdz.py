@@ -77,4 +77,4 @@ def download_file(web_url):
 # 主程序入口
 if __name__ == '__main__':
     web_url = 'https://tieba.baidu.com/f?ie=utf-8&kw=段友之家'
-    # download_file(web_url)
+    download_file(web_url)
